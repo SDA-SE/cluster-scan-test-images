@@ -1,7 +1,7 @@
 [
   {
-    "image": "quay.io/sdase/clusterscanner-base:2.0.0",
-    "image_id": "quay.io/sdase/clusterscanner-base:2.0.0",
+    "image": "quay.io/sdase/clusterscanner-base:2.0.350",
+    "image_id": "quay.io/sdase/clusterscanner-base:2.0.350",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "security-test",
