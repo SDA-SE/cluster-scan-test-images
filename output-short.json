@@ -23,7 +23,7 @@
     "image_id": "quay.io/sdase/hello-dropwizard@sha256:8f36fb988bf3d7f17864f51ebd9f5ac30f6dc5789bfd32bb23e06535cd52a05a",
     "slack": "#security-notifications-test",
     "skip": false,
-    "team": "moneypenny-test",
+    "team": "project-test",
     "app_kubernetes_io_name": "hello-service",
     "namespace": "service-test",
     "container_running_as": "TODO",
