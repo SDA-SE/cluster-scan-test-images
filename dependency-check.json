@@ -1,7 +1,7 @@
 [
   {
-    "image": "swaggerapi/petstore:1.0.3",
-    "image_id": "swaggerapi/petstore@sha256:b4c0c6faac37e2051df9cd525a4fe7a3e0aef93c6d190e71619c6a70ccae4e4f",
+    "image": "quay.io/prometheuscommunity/postgres-exporter:v0.10.0",
+    "image_id": "quay.io/prometheuscommunity/postgres-exporter@sha256:edc929fd808c7ee5d0a50d4199ff067cb23f8c7b9551053acdee78ac46ba0305",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "security-test",
