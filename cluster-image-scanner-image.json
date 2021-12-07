@@ -1,0 +1,22 @@
+[
+  {
+    "image": "quay.io/sdase/cluster-image-scanner-base:2.0.424",
+    "image_id": "quay.io/sdase/cluster-image-scanner-base@sha256:f93b4b82f660e6eb127334df985e540fa354ac6fd71d9efd19be541f5378438c",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "security-journey",
+    "app_kubernetes_io_name": "petstore",
+    "namespace": "petstore-prod",
+    "container_running_as": "TODO",
+    "environment": "test-cluster",
+    "scm_source_branch": "TODO",
+    "email": "clusterscannertest@sda.se",
+    "is_scan_lifetime": "true",
+    "is_scan_distroless": "false",
+    "is_scan_malware": "false",
+    "is_scan_new_version": "true",
+    "is_scan_dependency_check": "false",
+    "is_scan_runasroot": "false",
+    "scan_lifetime_max_days": 14
+  }
+]
