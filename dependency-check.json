@@ -28,7 +28,7 @@
     "skip": false,
     "team": "security-test",
     "app_kubernetes_io_name": "logstash",
-    "namespace": "zap-log4j",
+    "namespace": "logstash",
     "container_running_as": "TODO",
     "environment": "test-cluster",
     "scm_source_branch": "TODO",
