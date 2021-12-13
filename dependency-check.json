@@ -20,5 +20,27 @@
     "is_scan_runasroot": "false",
     "is_scan_new_version": "false",    
     "scan_lifetime_max_days": 14
-  }
+  },
+  {
+    "image": "owasp/zap2docker-stable:2.11.0",
+    "image_id": "owasp/zap2docker-stable:2.11.0",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "security-test",
+    "app_kubernetes_io_name": "zap-log4j",
+    "namespace": "zap-log4j",
+    "container_running_as": "TODO",
+    "environment": "test-cluster",
+    "scm_source_branch": "TODO",
+    "email": "clusterscannertest@sda.se",
+    "is_scan_lifetime": "false",
+    "is_scan_baseimage_lifetime": "false",
+    "is_scan_distroless": "false",
+    "is_scan_malware": "false",
+    "is_scan_new_version": "false",
+    "is_scan_dependency_check": "true",
+    "is_scan_runasroot": "false",
+    "is_scan_new_version": "false",    
+    "scan_lifetime_max_days": 14
+  }  
 ]
