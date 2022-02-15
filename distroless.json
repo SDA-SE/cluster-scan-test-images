@@ -3,6 +3,7 @@
     "image": "cloudelements/eicarr:1.0.1",
     "image_id": "cloudelements/eicar:1.0.1",
     "slack": "#security-notifications-test",
+    "app_version": "1.0.1",
     "skip": false,
     "team": "security-test",
     "app_kubernetes_io_name": "petstore",
