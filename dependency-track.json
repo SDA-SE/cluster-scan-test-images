@@ -6,6 +6,7 @@
     "skip": false,
     "team": "security-test",
     "app_kubernetes_io_name": "petstore",
+    "app_version": "1.0.3",
     "namespace": "petstore-track-prod",
     "container_running_as": "TODO",
     "environment": "test-cluster",
