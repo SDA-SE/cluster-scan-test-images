@@ -2,8 +2,8 @@
   
 [
   {
-    "image": "gcr.io/distroless/java:11-nonroot",
-    "image_id": "gcr.io/distroless/java:11-nonroot",
+    "image": "quay.io/prometheuscommunity/postgres-exporter:v0.10.0",
+    "image_id": "quay.io/prometheuscommunity/postgres-exporter@sha256:edc929fd808c7ee5d0a50d4199ff067cb23f8c7b9551053acdee78ac46ba0305",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
@@ -12,12 +12,12 @@
     "skip": false,
     "app_kubernetes_io_name": "quay.io/prometheuscommunity/postgres-exporter",
     "app_version": "v0.10.0",
-    "team": "test-1970",
-    "namespace": "test-1970",
+    "team": "test",
+    "namespace": "test",
     "container_running_as": "TODO",
     "environment": "test-cluster",
     "is_scan_lifetime": "true",
-    "is_scan_baseimage_lifetime": "true",
+    "is_scan_baseimage_lifetime": "false",
     "is_scan_distroless": "false",
     "is_scan_malware": "false",
     "is_scan_dependency_check": "false",
