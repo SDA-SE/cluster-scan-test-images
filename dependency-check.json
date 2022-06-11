@@ -1,7 +1,7 @@
 [
   {
-    "image": "swaggerapi/petstore:1.0.3",
-    "image_id": "swaggerapi/petstore@sha256:b4c0c6faac37e2051df9cd525a4fe7a3e0aef93c6d190e71619c6a70ccae4e4f",
+    "image": "swaggerapi/petstore:1.0.6",
+    "image_id": "swaggerapi/petstore@sha256:5c1a6e8f313e17a4f3099e898f3f30f3b96a9aa8637d4a1cb7f976054072440a",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "fellowship-of-the-ring",
