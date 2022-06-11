@@ -20,7 +20,7 @@
     "is_scan_runasroot": "false",
     "is_scan_new_version": "false",    
     "scan_lifetime_max_days": 14
-  }
+  },
   {
     "image": "elastic/logstash:7.13.3",
     "image_id": "elastic/logstash:7.13.3",
