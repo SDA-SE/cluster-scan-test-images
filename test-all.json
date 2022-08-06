@@ -1,0 +1,23 @@
+  {
+    "image": "elastic/logstash:7.13.3",
+    "image_id": "elastic/logstash:7.13.3",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "fellowship-of-the-ring",
+    "app_kubernetes_io_name": "elastic/logstash",
+    "namespace": "shire",
+    "container_running_as": "TODO",
+    "environment": "lord-of-the-rings",
+    "scm_source_branch": "TODO",
+    "email": "clusterscannertest@sda.se",
+    "is_scan_lifetime": "false",
+    "is_scan_baseimage_lifetime": "false",
+    "is_scan_distroless": "false",
+    "is_scan_malware": "false",
+    "is_scan_new_version": "false",
+    "is_scan_dependency_check": "true",
+    "is_scan_runasroot": "false",
+    "is_scan_new_version": "false",    
+    "scan_lifetime_max_days": 14
+  }  
+]
