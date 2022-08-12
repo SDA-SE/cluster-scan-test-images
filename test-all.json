@@ -22,12 +22,12 @@
     "scan_lifetime_max_days": 14
   },
   {
-    "image": "philippbehmer/docker-eicar:1.1",
-    "image_id": "philippbehmer/docker-eicar:1.1",
+    "image": "jvalance/eicar-test",
+    "image_id": "jvalance/eicar-test",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "fellowship-of-the-ring",
-    "app_kubernetes_io_name": "philippbehmer/docker-eicar",
+    "app_kubernetes_io_name": "jvalance/eicar-test",
     "namespace": "shire",
     "container_running_as": "TODO",
     "environment": "lord-of-the-rings",
