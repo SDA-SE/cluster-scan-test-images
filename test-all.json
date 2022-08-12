@@ -20,5 +20,27 @@
     "is_scan_runasroot": "true",
     "is_scan_new_version": "true",    
     "scan_lifetime_max_days": 14
+  },
+  {
+    "image": "philippbehmer/docker-eicar:1.1",
+    "image_id": "philippbehmer/docker-eicar:1.1",
+    "slack": "#security-notifications-test",
+    "skip": false,
+    "team": "fellowship-of-the-ring",
+    "app_kubernetes_io_name": "philippbehmer/docker-eicar",
+    "namespace": "shire",
+    "container_running_as": "TODO",
+    "environment": "lord-of-the-rings",
+    "scm_source_branch": "TODO",
+    "email": "clusterscannertest@sda.se",
+    "is_scan_lifetime": "true",
+    "is_scan_baseimage_lifetime": "true",
+    "is_scan_distroless": "true",
+    "is_scan_malware": "false",
+    "is_scan_dependency_check": "true",
+    "is_scan_dependency_track": "true",
+    "is_scan_runasroot": "true",
+    "is_scan_new_version": "true",    
+    "scan_lifetime_max_days": 14
   }  
 ]
