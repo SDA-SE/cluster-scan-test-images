@@ -11,7 +11,7 @@
     "container_running_as": "TODO",
     "environment": "lord-of-the-rings",
     "scm_source_branch": "TODO",
-    "email": "clusterscannertest@sda.se",
+    "email": "",
     "is_scan_lifetime": "true",
     "is_scan_baseimage_lifetime": "true",
     "is_scan_distroless": "true",
