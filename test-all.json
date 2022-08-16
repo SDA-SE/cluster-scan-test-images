@@ -1,11 +1,11 @@
 [
   {
-    "image": "elastic/logstash:7.13.3",
-    "image_id": "elastic/logstash:7.13.3",
+    "image": "cluster-image-scanner-test-image",
+    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:6ccdd84acd4db393a844c031ad3e6e7c584bf1a65cd45ff12cb71b6658da788d",
     "slack": "#security-notifications-test",
     "skip": false,
     "team": "fellowship-of-the-ring",
-    "app_kubernetes_io_name": "elastic/logstash",
+    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-test-image",
     "app_version": "7.13.3",
     "namespace": "shire",
     "container_running_as": "TODO",
