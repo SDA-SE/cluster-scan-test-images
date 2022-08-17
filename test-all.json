@@ -1,6 +1,6 @@
 [
   {
-    "image": "cluster-image-scanner-test-image:2.0.22",
+    "image": "quay.io/sdase/cluster-image-scanner-test-image:2.0.22",
     "image_id": "quay.io/sdase/cluster-image-scanner-test-image:2.0.22",
     "slack": "#security-notifications-test",
     "skip": false,
