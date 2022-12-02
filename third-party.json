@@ -1,0 +1,29 @@
+[
+  {
+    "image": "quay.io/oauth2-proxy/oauth2-proxy:v7.2.0",
+    "image_id": "quay.io/oauth2-proxy/oauth2-proxy@sha256:21efe7d87bbfde86a2929bc26f5ea2929a3ad263276941bd867b6633c9ca427c",
+    "email": "",
+    "slack": "",
+    "rocketchat": "null",
+    "scm_source_url": null,
+    "scm_source_branch": null,
+    "scm_release": "v7.2.0",
+    "skip": false,
+    "app_kubernetes_io_name": "quay.io/oauth2-proxy/oauth2-proxy",
+    "app_version": "v7.2.0",
+    "team": "team-lightning",
+    "namespace": "backstage",
+    "container_running_as": "TODO",
+    "environment": "test",
+    "is_scan_lifetime": "true",
+    "is_scan_baseimage_lifetime": "false",
+    "is_scan_distroless": "false",
+    "is_scan_malware": "true",
+    "is_scan_dependency_check": "false",
+    "is_scan_dependency_track": "true",
+    "is_scan_runasroot": "true",
+    "is_scan_new_version": "false",
+    "scan_lifetime_max_days": "180",
+    "container_type": "third-party"
+  }
+]
