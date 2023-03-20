@@ -1,0 +1,4 @@
+"Missing description on namespace:"
+"default"
+"shire"
+"cluster-image-scanner-image-collector"
