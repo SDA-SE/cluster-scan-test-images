@@ -1,7 +1,7 @@
 [
   {
-    "image": "quay.io/prometheuscommunity/postgres-exporter:v0.10.0",
-    "image_id": "quay.io/prometheuscommunity/postgres-exporter@sha256:edc929fd808c7ee5d0a50d4199ff067cb23f8c7b9551053acdee78ac46ba0305",
+    "image": "quay.io/sdase/cluster-image-scanner-test-image:2",
+    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:9def1cb6c78ceb47851e18c23588d9b7be3c9a53b595dfc3e1db08e97a5b5bb4",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
