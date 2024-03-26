@@ -25,5 +25,32 @@
     "is_scan_new_version": "false",
     "scan_lifetime_max_days": "14",
     "container_type": "application"
-  }
+  },
+  {
+    "image": "quay.io/sdase/cluster-image-scanner-test-image:2.0.225",
+    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:9b4025729871790f48b17e8857e98457803d8e919a2c7a228efba67874f1d7ab",
+    "email": "",
+    "slack": "",
+    "rocketchat": "null",
+    "scm_source_url": null,
+    "scm_source_branch": null,
+    "scm_release": "2.0.225",
+    "skip": "false",
+    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-test-image",
+    "app_kubernetes_io_version": "2.0.225",
+    "team": "nobody",
+    "namespace": "shire2",
+    "container_running_as": "TODO",
+    "environment": "lord-of-the-rings",
+    "is_scan_lifetime": "true",
+    "is_scan_baseimage_lifetime": "true",
+    "is_scan_distroless": "true",
+    "is_scan_malware": "true",
+    "is_scan_dependency_check": "true",
+    "is_scan_dependency_track": "true",
+    "is_scan_runasroot": "true",
+    "is_scan_new_version": "false",
+    "scan_lifetime_max_days": "14",
+    "container_type": "application"
+  }  
 ]
