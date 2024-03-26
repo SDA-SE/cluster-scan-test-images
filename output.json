@@ -1,7 +1,7 @@
 [
   {
-    "image": "quay.io/sdase/cluster-image-scanner-test-image:2.0.225",
-    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:9b4025729871790f48b17e8857e98457803d8e919a2c7a228efba67874f1d7ab",
+    "image": "docker pull cimg/android:2024.01.1-browsers",
+    "image_id": "docker pull cimg/android:2024.01.1-browsers",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -27,8 +27,8 @@
     "container_type": "application"
   },
   {
-    "image": "quay.io/sdase/cluster-image-scanner-test-image:2.0.225",
-    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:9b4025729871790f48b17e8857e98457803d8e919a2c7a228efba67874f1d7ab",
+    "image": "docker pull cimg/android:2024.01.1-browsers",
+    "image_id": "docker pull cimg/android:2024.01.1-browsers",
     "email": "",
     "slack": "",
     "rocketchat": "null",
