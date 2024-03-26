@@ -1,7 +1,7 @@
 [
   {
-    "image": "cimg/android:2024.01.1-browsers",
-    "image_id": "cimg/android:2024.01.1-browsers",
+    "image": "vad1mo/1gb-random-file:latest",
+    "image_id": "vad1mo/1gb-random-file:latest",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -27,8 +27,8 @@
     "container_type": "application"
   },
   {
-    "image": "cimg/android:2024.01.1-browsers",
-    "image_id": "cimg/android:2024.01.1-browsers",
+    "image": "vad1mo/1gb-random-file:latest",
+    "image_id": "vad1mo/1gb-random-file:latest",
     "email": "",
     "slack": "",
     "rocketchat": "null",
