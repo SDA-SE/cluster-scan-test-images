@@ -1,7 +1,7 @@
 [
   {
-    "image": "docker pull cimg/android:2024.01.1-browsers",
-    "image_id": "docker pull cimg/android:2024.01.1-browsers",
+    "image": "cimg/android:2024.01.1-browsers",
+    "image_id": "cimg/android:2024.01.1-browsers",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -27,8 +27,8 @@
     "container_type": "application"
   },
   {
-    "image": "docker pull cimg/android:2024.01.1-browsers",
-    "image_id": "docker pull cimg/android:2024.01.1-browsers",
+    "image": "cimg/android:2024.01.1-browsers",
+    "image_id": "cimg/android:2024.01.1-browsers",
     "email": "",
     "slack": "",
     "rocketchat": "null",
